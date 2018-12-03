@@ -4,9 +4,9 @@ Sistema de Gerenciamento de Banco de Dados simplificado baseado no modelo relaci
 
 ## O que foi feito?
 
-1. Criar uma tabela
+1. Criar uma tabela (faltando checar o tipo da coluna)
 2. Listar todas as tabelas
-3. Criar uma nova linha na tabela
+3. Criar uma nova linha na tabela (faltando checar se o valor é do tipo da coluna correspondente e se a chave primária é única)
 4. Listar todos os dados de uma tabela
 6. Apagar valor de uma tabela
 7. Apagar uma tabela
